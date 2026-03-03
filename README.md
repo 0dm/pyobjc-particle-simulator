@@ -4,6 +4,12 @@
 
 Default colour map is a Lorenz attractor heatmap. Supply `--image` to use your own bitmap instead.
 
+
+
+
+https://github.com/user-attachments/assets/ad011e93-0971-49d5-b658-7b3ec2c5c6d7
+
+
 ## Run
 
 ```
