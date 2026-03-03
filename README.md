@@ -1,4 +1,4 @@
-# pyobjc-gravitysim
+# particle-simulator 
 
 500k-particle gravity sim rendered to a raw pixel buffer in a native macOS window. PyObjC, NumPy, and Core Graphics.
 
