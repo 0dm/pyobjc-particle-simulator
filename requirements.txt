@@ -1,0 +1,6 @@
+numpy
+pyobjc-core
+pyobjc-framework-Cocoa
+pyobjc-framework-Quartz
+mlx
+Pillow
